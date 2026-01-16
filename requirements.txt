@@ -1,0 +1,12 @@
+javalang
+networkx
+igraph
+leidenalg
+numpy
+pandas
+scikit-learn
+torch
+transformers
+matplotlib
+seaborn
+pyyaml
